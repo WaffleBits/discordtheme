@@ -2082,7 +2082,7 @@ IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS T
 ===== CUSTOMIZABLE COLORS =====
 */
 :root { 
- --main-color: #FF0000;
+ --main-color: #950505;
  --hover-color: #6b0404;
  }
 /*
@@ -2113,18 +2113,3 @@ RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MA
     background: -webkit-linear-gradient(top, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.5)), url("https://imgur.com/RG03PyX.png") !important;
     background: linear-gradient(to bottom, rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.5)), url("https://imgur.com/RG03PyX.png") !important;
     content: "";position: absolute;left: 0;top: 0;width: 100%;height: 100%;z-index: -1;background-position: 50% 50%;background-size: cover !important;-webkit-filter: blur(3px);-webkit-transform: scale(1.1);transform: scale(1.1);}
-
- /*
----------------------------------------------------------------------------------------------------------------------------------------------
-===== CREDITS =====
-URI
-BEARDDESIGN
-ZERTHOX
-THESE PEOPLE HAVE HELPED CREATE THIS THEME IN ONE WAY OR THE OTHER.
---------------------------------------------------------------------------------------------------------------------------------------------
-*/
-/*
----------------------------------------------------------------------------------------------------------------------------------------------
-TROUBLESHOOTING: IF YOU NEED ANY HELP GO TO HTTPS://BETTERDOCS.NET
----------------------------------------------------------------------------------------------------------------------------------------------
-*/
