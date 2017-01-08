@@ -2097,7 +2097,7 @@ RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MA
 */
 /*Change the url in .app to change the background behind chat */
 
-.app { background-image: url("https://ktesports.ddns.net/koprutrafi%C4%9Fiesports.png") !important; background-size: cover !important; }
+.app { background-image: url("https://ktesports.ddns.net/discord_background/background.png") !important; background-size: cover !important; }
 
 /*Change the url in .callout-backdrop to change the background when modal pop outs happen */
 
